@@ -25,4 +25,5 @@ const fizzBuzzGenerator = () => {
     return fizzBuzzOutput;
 }
 
-module.exports = fizzBuzzGenerator;
+
+fizzBuzzGenerator();

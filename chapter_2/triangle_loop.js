@@ -17,4 +17,4 @@ const generateTriangle = (triangleHeight = 7) => {
 }
 
 
-module.exports = generateTriangle;
+generateTriangle();

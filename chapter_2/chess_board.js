@@ -31,4 +31,3 @@ const chessBoardGenerator = (size=8) => {
 }
 
 chessBoardGenerator();
-module.exports = chessBoardGenerator;
